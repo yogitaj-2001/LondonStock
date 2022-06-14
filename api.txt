@@ -1,0 +1,14 @@
+http://localhost:5252/api/allstocks
+
+http://localhost:5252/api/stocks 
+
+["A"]
+
+http://localhost:5252/api/addstocks
+
+{
+    "TickerSymbol": "B",
+    "Price": 23.45, 
+    "NumberofShares": 3.0, 
+    "BrokerId": 1
+}
